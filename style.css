@@ -1,3 +1,6 @@
+
+/*  tag selection*/
+
 body{
   background-color:powderblue
 
@@ -22,6 +25,7 @@ h3{
 table{
   height: 3px;
 }
+/* class selection */
 .caddo{
   border-radius: 100px;
 }
