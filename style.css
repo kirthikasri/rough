@@ -19,9 +19,12 @@ h3{
     border-width: 5px;
     width: 20px;
 }
+img{
+   height: 100px;
+}
  img:hover{
    background-color:#FFEA11;
-   height: 100px;
+  
  }
 table{
   height: 3px;
