@@ -1,16 +1,26 @@
-
-/*  tag selection*/
-
 body{
   background-color:powderblue
+
 }
-img{
-   height: 100px;
+h1{
+  color: #A084CF;
 }
- img:hover{
-   background-color:red;
-  
- }
-table{
-  height: 3px;
+h3{
+  color: #A084CF;
 }
+  hr{
+    background-color:powderblue;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 20px;
+}
+
+.caddo{
+  border-radius: 100px;
+}
+img:hover{
+  background-color: gold;
+}
+
