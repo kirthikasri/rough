@@ -3,22 +3,6 @@
 
 body{
   background-color:powderblue
-
-}
-h1{
-  color: #A084CF;
-}
-h3{
-  color: #A084CF;
-}
-  hr{
-    background-color:powderblue;
-    border-style: none;
-    border-top-style: dotted;
-    border-color: black;
-    border-width: 5px;
-    width: 20px;
-}
 img{
    height: 100px;
 }
@@ -28,8 +12,4 @@ img{
  }
 table{
   height: 3px;
-}
-/* class selection */
-.caddo{
-  border-radius: 100px;
 }
